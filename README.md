@@ -1,16 +1,9 @@
-# typdef_1
+# How to build a CustomScaffold with alternative build methods in Flutter
 
-A new Flutter project.
+You learned the basics of Flutter. You already built a project of your own. But you feel it, this sensation - it is time to level up. Do not worry, we're not going too fast but a step at a time.
 
-## Getting Started
+🎯 In this tutorial you will understand
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* how to create your own custom widget
+* how to use typdef
+* how to add alternative building methods to your custom widget
